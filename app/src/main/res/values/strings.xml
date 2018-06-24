@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Bora Bora Tour Guide</string>
+    <string name="category_attractions">Attraction</string>
+    <string name="category_beaches">Beaches</string>
+    <string name="category_restaurants">Restaurant</string>
+    <string name="category_resorts">Resorts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Attractions Strings-->
+    <string name="attractionname1">MT. Otemanu</string>
+    <string name="attractiondesc1">Visible many places around Bora Bora.</string>
+    <string name="attractionname2">Lagoon Tours</string>
+    <string name="attractiondesc2">A lagoon tour is a must do Bora Bora attraction.</string>
+    <string name="attractionname3">Motu Picnics</string>
+    <string name="attractiondesc3">A polynesian experience in Bora Bora.</string>
+    <string name="attractionname4">Coral Gardens</string>
+    <string name="attractiondesc4">Take a snorkeling tour.</string>
+    <string name="attractionname5">Matria Beach</string>
+    <string name="attractiondesc5">Bora Boras famous public beach</string>
+
+    <!--Beaches Strings-->
+    <string name="beachesname1">Intercontinental Thalasso</string>
+    <string name="beachesdesc1">Electric blue and calm water.</string>
+    <string name="beachesname2">Thalasso</string>
+    <string name="beachesdesc2">Royal blue and mesmerizing!</string>
+    <string name="beachesname3">Tahiti Beaches</string>
+    <string name="beachesdesc3">Tahiti beaches offer pleasure all year.</string>
+    <string name="beachesname4">Pearl Beach</string>
+    <string name="beachesdesc4">Most photographed Bora Bora beach</string>
+    <string name="beachesname5">Motu Piti Aau</string>
+    <string name="beachesdesc5">An awesome view across MT. Otemanu</string>
+
+    <!--Resorts Strings-->
+    <string name="resortsname1">St Regis Resort</string>
+    <string name="resortsdesc1">Huge and luxurious.</string>
+    <string name="resortsname2">Conrad Nui Resort and Spa</string>
+    <string name="resortsdesc2">A private location.</string>
+    <string name="resortsname3">Intercontinental Resort and Thalasso Spa</string>
+    <string name="resortsdesc3">Prime position on a motu.</string>
+    <string name="resortsname4">Four seasons Bora Bora</string>
+    <string name="resortsdesc4">Polynesian inspired.</string>
+    <string name="resortsname5">Bora Bora le Meridien</string>
+    <string name="resortsdesc5">Tropical theme.</string>
+
+    <!--Restaurants Strings-->
+    <string name="restaurantsname1">Yacht Club</string>
+    <string name="restaurantsdesc1">Faces the sunset</string>
+    <string name="restaurantsname2">St Regis Lagoon</string>
+    <string name="restaurantsdesc2">Only open at night</string>
+    <string name="restaurantsname3">La Villa Mahana</string>
+    <string name="restaurantsdesc3">Special gourment dishes.</string>
+    <string name="restaurantsname4">Maikai</string>
+    <string name="restaurantsdesc4">Dishes change daily.</string>
+    <string name="restaurantsname5">St James</string>
+    <string name="restaurantsdesc5">French Polynesian.</string>
+
+
+
+</resources>
